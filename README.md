@@ -7,7 +7,7 @@
 ## 📖 Overview
 MonoScale is a NestJS modular monolith with strict module boundaries, so features stay decoupled and any module can be extracted into its own service later without a rewrite.
 
-> Part of my Senior Hybrid Engineer 2026 portfolio (`#38`). Built on the "Antigravity" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
+> Built on the "Antigravity" model.
 
 ## 🚀 Quick Start
 ```bash
